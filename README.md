@@ -20,7 +20,7 @@ The first number represents the un-memoized call, with the second being the memo
 
 I'll borrow this great definition from Divyanshu Maithani's [article](https://medium.freecodecamp.org/understanding-memoize-in-javascript-51d07d19430e):
 
-_> **Memoization** is an optimization technique used primarily to speed up computer programs by **storing the results of expensive function calls** and returning the cached result when the same inputs occur again._
+> ***Memoization** is an optimization technique used primarily to speed up computer programs by **storing the results of expensive function calls** and returning the cached result when the same inputs occur again.*
 
 In other words, memoization is a way to store results into a cache and retrieve those cached results.
 
