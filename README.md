@@ -24,7 +24,7 @@ I'll borrow this great definition from Divyanshu Maithani's [article](https://me
 
 In other words, memoization is a way to store results into a cache and retrieve those cached results.
 
-The benefit becomes obvious as function calls get more expensive -
+The benefit becomes obvious as function calls get more expensive - why would you want to repeat expensive calls if you already have the result from an earlier call?
 
 ## Memoization function
 
